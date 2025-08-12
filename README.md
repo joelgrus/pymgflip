@@ -4,12 +4,12 @@ A type-safe Python client for the [Imgflip](https://imgflip.com) meme generation
 
 ## Features
 
--  Full type hints and type safety
--  Support for all Imgflip API endpoints
--  Automatic handling of authentication
--  Graceful handling of premium-only features  
--  Comprehensive error handling
--  Easy to use interface
+- Full type hints and type safety
+- Support for all Imgflip API endpoints
+- Automatic handling of authentication
+- Graceful handling of premium-only features  
+- Comprehensive error handling
+- Easy to use interface
 
 ## Installation
 
